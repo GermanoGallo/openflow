@@ -13,4 +13,9 @@ These are the latest project files version:
 - Arduino sketch code version 2.17;
 - Schematic drawing.
 
+Shiny Analysis Tools App:
+
+https://germanogallo.shinyapps.io/openflowApp/
+
+
 Thanks.
