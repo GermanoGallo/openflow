@@ -15,7 +15,7 @@ These are the latest project files version:
 
 # New!
 
-## Shiny Analysis Tools App v1.30:
+## Shiny Analysis Tools App v1.30
  
 Available link: 
 
@@ -36,3 +36,8 @@ https://germanogallo.shinyapps.io/openflowApp/
 
 
 Enjoy!
+
+
+<img src="./photo/01.png">
+
+
