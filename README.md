@@ -13,9 +13,26 @@ These are the latest project files version:
 - Arduino sketch code version 2.17;
 - Schematic drawing.
 
-Shiny Analysis Tools App:
+# New!
+
+## Shiny Analysis Tools App v1.30:
+ 
+Available link: 
 
 https://germanogallo.shinyapps.io/openflowApp/
 
+### Features:
 
-Thanks.
+* English/Portuguese languages;
+* Import and edit flow curves;
+* Create single patient analysis file;
+* Single and multiple curve visualization;
+* Automatic generation of voiding parameters;
+* Velocity and acceleration graph;
+* Successive and superimposed curves;
+* Smoothed curve;
+* Liverpool and Siroky nomograms;
+* Create PDF reports.
+
+
+Enjoy!
